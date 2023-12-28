@@ -18,7 +18,7 @@ environment.
 * Right: Shift
 * Sliders: right/left/zoom in/out
 # Customization:
-Change the code in box_rotation.java class
+Change the code in sphere.java class
 # Acknowledgement:
 Planetary data was taken from [NASA_Planetary_Fact](https://science.nasa.gov/solar-system/planets/)
 
