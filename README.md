@@ -1,4 +1,4 @@
-## 3d_Solar_Model
+# 3d_Solar_Model
 # Overview:
 This Java application utilizes JavaFX to create a visually engaging 3D model of the solar system. Users can explore the positions of planets and their orbits around the sun in a realistic and interactive 
 environment.
